@@ -13,3 +13,4 @@ features = ["c++17"]
 [build-dependencies]
 anyhow = "1.0.75"
 cxx-build = "1.0.110"
+ccdbgen = { path = "../ccdbgen" }

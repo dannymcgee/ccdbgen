@@ -1,0 +1,48 @@
+[
+{
+  "arguments": [
+    "-O0",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-g",
+    "-fno-omit-frame-pointer",
+    "-m64",
+    "-std=c++17",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\include",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\crate",
+    "-Wall",
+    "-Wextra",
+    "-o",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\ab95181f83afdf6a-main.rs.o",
+    "-c",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\sources\\cxx-demo\\src\\main.rs.cc"
+  ],
+  "directory": "D:\\@experimental\\cxx-rs-compile-commands\\crates\\cxx-demo",
+  "file": "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\sources\\cxx-demo\\src\\main.rs.cc"
+},
+{
+  "arguments": [
+    "-O0",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-g",
+    "-fno-omit-frame-pointer",
+    "-m64",
+    "-std=c++17",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\include",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\cxxbridge\\crate",
+    "-Wall",
+    "-Wextra",
+    "-o",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-60f229a133164504\\out\\src/blobstore.o",
+    "-c",
+    "src/blobstore.cc"
+  ],
+  "directory": "D:\\@experimental\\cxx-rs-compile-commands\\crates\\cxx-demo",
+  "file": "src/blobstore.cc"
+}
+]

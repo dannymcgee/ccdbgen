@@ -18,6 +18,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "ccdbgen"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "cc",
+ "serde_json",
+]
+
+[[package]]
 name = "codespan-reporting"
 version = "0.11.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -55,18 +64,11 @@ dependencies = [
 ]
 
 [[package]]
-name = "cxx-compile-commands"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "serde_json",
-]
-
-[[package]]
 name = "cxx-demo"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "ccdbgen",
  "cxx",
  "cxx-build",
 ]
