@@ -1,0 +1,15 @@
+[package]
+name = "cxx-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.75"
+
+[dependencies.cxx]
+version = "1.0.110"
+features = ["c++17"]
+
+[build-dependencies]
+anyhow = "1.0.75"
+cxx-build = "1.0.110"

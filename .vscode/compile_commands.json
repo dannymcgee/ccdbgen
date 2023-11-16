@@ -1,0 +1,71 @@
+[
+{
+  "arguments": [
+    "C:/Program Files/LLVM/bin/clang++.exe",
+    "-O0",
+    "--target=x86_64-pc-windows-msvc",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "--target=x86_64-pc-windows-msvc",
+    "-Wall",
+    "-Wextra",
+    "-std=c++17",
+    "-o",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\flag_check",
+    "-c",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\flag_check.cpp"
+  ],
+  "directory": "D:\\@experimental\\cxx-rs-compile-commands\\crates\\cxx-demo",
+  "file": "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\flag_check.cpp"
+},
+{
+  "arguments": [
+    "C:/Program Files/LLVM/bin/clang++.exe",
+    "-O0",
+    "--target=x86_64-pc-windows-msvc",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-g",
+    "-fno-omit-frame-pointer",
+    "--target=x86_64-pc-windows-msvc",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\include",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\crate",
+    "-Wall",
+    "-Wextra",
+    "-std=c++17",
+    "-o",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\97c305e6d4bd2bea-main.rs.o",
+    "-c",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\sources\\cxx-demo\\src\\main.rs.cc"
+  ],
+  "directory": "D:\\@experimental\\cxx-rs-compile-commands\\crates\\cxx-demo",
+  "file": "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\sources\\cxx-demo\\src\\main.rs.cc"
+},
+{
+  "arguments": [
+    "C:/Program Files/LLVM/bin/clang++.exe",
+    "-O0",
+    "--target=x86_64-pc-windows-msvc",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-g",
+    "-fno-omit-frame-pointer",
+    "--target=x86_64-pc-windows-msvc",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\include",
+    "-I",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\cxxbridge\\crate",
+    "-Wall",
+    "-Wextra",
+    "-std=c++17",
+    "-o",
+    "D:\\@experimental\\cxx-rs-compile-commands\\target\\debug\\build\\cxx-demo-2db0c7da72b16bd8\\out\\src/blobstore.o",
+    "-c",
+    "src/blobstore.cc"
+  ],
+  "directory": "D:\\@experimental\\cxx-rs-compile-commands\\crates\\cxx-demo",
+  "file": "src/blobstore.cc"
+}
+]
